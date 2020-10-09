@@ -6,6 +6,9 @@
 #### 主题展示
 演示地址：https://demo.jv98.com/   购买地址: https://www.jv98.com/4.html
 
+
+## 高级版本: https://www.jv98.com/4.html
+
 #### 推荐使用服务器 (腾讯云服务器)
 
 |  2核4G   | 带宽 3M  |  50G硬盘   | 操作系统 Linux  |  ¥ 1642元/3年  | [购买链接](https://cloud.tencent.com/act/cps/redirect?redirect=1062&cps_key=09ff33cfb418db124451885bff0af0c4&from=console "购买链接")  |
