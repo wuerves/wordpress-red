@@ -1,0 +1,1 @@
+echo '<a href="'.get_tag_link($tag).'"><img src=" '.get_bloginfo('template_directory').'/image/' . $tag->term_id . '.jpg" />'. $tag->name .'</a>';
