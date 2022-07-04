@@ -15,7 +15,7 @@
 |  ------  | -------  | --------  | -------------  | -------------  |-------------|
 |  4核8G   | 带宽 5M  |  50G硬盘   | 操作系统 Linux  | ¥ 2978元/3年 | [购买链接](https://cloud.tencent.com/act/cps/redirect?redirect=1062&cps_key=09ff33cfb418db124451885bff0af0c4&from=console "购买链接")  |
 
-![](https://www.jv98.com/wp-content/uploads/2020/09/demo-640x360.png)
+
 
 #### 主题特色
 响应式设计，在电脑、平板和手机端完美展现
